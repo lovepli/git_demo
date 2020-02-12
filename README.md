@@ -43,7 +43,7 @@ git branch -r  //查看远程分支和本地分支情况
    deleted //表示删除文件
 •	git merge +分支名  // merge功能是将一些分支的内容合并到某一个特定的分
 •	git branch -d yourbranch //删除分支
-•	git push origin -d yourbranch //删除远程分支
+•	git push origin -delete yourbranch //删除远程分支
 •	git branch -D Su-modify //强行删除本地分支
 
 
